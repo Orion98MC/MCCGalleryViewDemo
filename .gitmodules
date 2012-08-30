@@ -1,0 +1,3 @@
+[submodule "MCCGalleryView"]
+	path = MCCGalleryView
+	url = git://github.com/Orion98MC/MCCGalleryView.git
